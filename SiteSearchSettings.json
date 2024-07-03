@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Salesforce",
+    "shortcut": "salesforce",
+    "featured": true,
+    "url": "https://www.salesforce.com/search/#q={searchTerms}&sort=relevancy"
+  },
+  {
+    "name": "Service Now",
+    "shortcut": "servicenow",
+    "featured": true,
+    "url": "https://www.servicenow.com/search-result.html?q={searchTerms}"
+  },
+  {
+    "name": "YouTube",
+    "shortcut": "yt",
+    "featured": false,
+    "url": "https://www.youtube.com/results?search_query={searchTerms}"
+  }
+]

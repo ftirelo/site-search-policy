@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SiteSearchSettings</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Salesforce</string>
+			<key>shortcut</key>
+			<string>salesforce</string>
+			<key>url</key>
+			<string>https://www.salesforce.com/search/#q={searchTerms}&amp;sort=relevancy</string>
+			<key>featured</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Service Now</string>
+			<key>shortcut</key>
+			<string>servicenow</string>
+			<key>url</key>
+			<string>https://www.servicenow.com/search-result.html?q={searchTerms}</string>
+			<key>featured</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>YouTube</string>
+			<key>shortcut</key>
+			<string>youtube</string>
+			<key>url</key>
+			<string>https://www.youtube.com/results?search_query={searchTerms}</string>
+			<key>featured</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
